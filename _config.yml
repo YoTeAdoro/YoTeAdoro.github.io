@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "일상"
+title                    : "Jihyeon's Daily Life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "조지현"
-description              : "하루하루를 남겨나가는 일기장"
+description              : "Escribing Anything I Want"
 url                      : # the base hostname & protocol for your site e.g. "https://YoTeAdoro.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "YoTeAdoro/YoTeAdoro.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "조지현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Happy Hafs Student "I am an **amazing** person."
+  bio              : Hafs Humanities Student #"I am an **amazing** person."
   location         : "Somewhere"
   email            : jojijungledaejang@gmail.com
   links:
