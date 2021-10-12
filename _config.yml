@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "조지현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jihyeon.jpg"
   bio              : "Hafs 16Humanities Student" #"I am an **amazing** person."
   location         : "South Korea, Busan"
   email            : "jojijungledaejang@gmail.com"
