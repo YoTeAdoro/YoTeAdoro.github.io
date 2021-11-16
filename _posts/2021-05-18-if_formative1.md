@@ -8,7 +8,7 @@ toc_label: "페이지 주요 목차"
 
 ### 01. 사주보기
 ![saju][if1]  
-[if1]: https://drive.google.com/file/d/1y2iAuuoepjsledbnVoPBPO8ajWeJBgiH/view?usp=sharing
+[if1]: <br>https://drive.google.com/file/d/1y2iAuuoepjsledbnVoPBPO8ajWeJBgiH/view?usp=sharing
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -29,7 +29,7 @@ int main(void)
 
 ### 02. 3개의 터널 통과
 ![tunnul][if2]  
-[if2]: https://drive.google.com/file/d/1kNPePsy-8iQbU8-31yjSJ_9HWK-CS3_1/view?usp=sharing
+[if2]: <br>https://drive.google.com/file/d/1kNPePsy-8iQbU8-31yjSJ_9HWK-CS3_1/view?usp=sharing
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -50,7 +50,7 @@ return 0;
 
 ### 03. 이 달은 며칠까지 있을까?
 ![callenderl][if3]  
-[if3]: https://drive.google.com/file/d/1wkafUU8-2lykmg0hXGy5FnCdM3rf1KkM/view?usp=sharing
+[if3]: <br>https://drive.google.com/file/d/1wkafUU8-2lykmg0hXGy5FnCdM3rf1KkM/view?usp=sharing
 ~~~c
 #include <stdio.h>
 int main(void)
