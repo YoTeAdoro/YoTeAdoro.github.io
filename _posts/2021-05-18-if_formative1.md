@@ -8,7 +8,7 @@ toc_label: "페이지 주요 목차"
 
 ### 01. 사주보기
 ![saju][if1]  
-[if1]: https://user-images.githubusercontent.com/89437127/141893007-6cd7ede8-a203-4472-ad51-bc6fab5e1572.png
+[if1]: <br>https://user-images.githubusercontent.com/89437127/141893007-6cd7ede8-a203-4472-ad51-bc6fab5e1572.png
 
 ~~~c
 #include <stdio.h>
@@ -30,7 +30,7 @@ int main(void)
 
 ### 02. 3개의 터널 통과
 ![tunnul][if2]  
-[if2]: https://user-images.githubusercontent.com/89437127/141893248-48d1f5a1-33ae-49dd-baea-32e715156977.png
+[if2]: <br>https://user-images.githubusercontent.com/89437127/141893248-48d1f5a1-33ae-49dd-baea-32e715156977.png
 
 ~~~c
 #include <stdio.h>
@@ -52,7 +52,7 @@ return 0;
 
 ### 03. 이 달은 며칠까지 있을까?
 ![callenderl][if3]  
-[if3]: https://user-images.githubusercontent.com/89437127/141893478-21975eff-d9df-467d-8760-2fc08ab2dd9b.png
+[if3]: <br>https://user-images.githubusercontent.com/89437127/141893478-21975eff-d9df-467d-8760-2fc08ab2dd9b.png
 
 ~~~c
 #include <stdio.h>
