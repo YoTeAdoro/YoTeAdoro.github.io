@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "지현이의 어릴적"
+toc: true
+toc_sticky: true
+toc_label: "시절"
 ---
 ### 아기 시절
 ![childhood1](/assets/images/childhood1.jpg)
