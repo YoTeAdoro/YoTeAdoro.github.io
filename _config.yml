@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "Jihyeon's Daily Life"
+title                    : "All social issues in the world"
 title_separator          : "-"
-subtitle                 : "Escribing Anything I Want" # site tagline that appears below site title in masthead
+subtitle                 : "A story that you didn't know" # site tagline that appears below site title in masthead
 name                     : "조지현"
 description              : "Recording Anything I Want"
 url                      : # the base hostname & protocol for your site e.g. "https://YoTeAdoro.github.io"
