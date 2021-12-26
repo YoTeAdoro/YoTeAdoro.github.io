@@ -16,7 +16,7 @@ toc_label: "후보"
 국민이 불러낸 대통령
 
 ### 정의당 심상정
-![candidate3](/assets/images/candidate3.jpg)
+![cnadidate3](/assets/images/cnadidate3.jpg)
 심상정으로 정권교체
 
 ### 국민의당 안철수
