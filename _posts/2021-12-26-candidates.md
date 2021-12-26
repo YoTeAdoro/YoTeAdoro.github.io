@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "지현이의 어릴적"
+title: "제20대 대통령 선거 후보"
 toc: true
 toc_sticky: true
 toc_label: "후보"
